@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CarBook",
+    "\\CarBook\\Infrastructure",
+    "\\CarBook\\Infrastructure\\CarBook.Persistence",
+    "\\CarBook\\Infrastructure\\CarBook.Persistence\\Repositories"
+  ],
+  "SelectedNode": "\\CarBook\\Infrastructure\\CarBook.Persistence\\Repositories\\Repository.cs",
+  "PreviewInSolutionExplorer": false
+}

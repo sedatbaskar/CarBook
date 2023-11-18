@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sedat\\source\\repos\\CarBook\\CarBook.Domain\\CarBook.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\sedat\\OneDrive\\Belgeler\\GitHub\\CarBook\\CarBook\\CarBook.Domain\\CarBook.Domain.csproj",
       "projectName": "CarBook.Domain",
-      "projectPath": "C:\\Users\\sedat\\source\\repos\\CarBook\\CarBook.Domain\\CarBook.Domain.csproj",
+      "projectPath": "C:\\Users\\sedat\\OneDrive\\Belgeler\\GitHub\\CarBook\\CarBook\\CarBook.Domain\\CarBook.Domain.csproj",
       "packagesPath": "C:\\Users\\sedat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sedat\\source\\repos\\CarBook\\CarBook.Domain\\obj\\",
+      "outputPath": "C:\\Users\\sedat\\OneDrive\\Belgeler\\GitHub\\CarBook\\CarBook\\CarBook.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sedat\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rdDjaQjAihRmBhjhh5+VPfyCNmpAkr11OwJ+dHLkhjioyGQq2e6Unb2SB/XukgEwwDgPoDC9A2wo7WW7rame0w==",
+  "dgSpecHash": "FwPhmjInoz7qIond5BbD6R0q87omYrTJZ3QYLd+TRak3STCz1W2trwyYScJ1maVTJbRPwt6eifWcH7irSACjjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sedat\\source\\repos\\CarBook\\Presentation\\CarBook.WepApi\\CarBook.WepApi.csproj",
+  "projectFilePath": "C:\\Users\\sedat\\OneDrive\\Belgeler\\GitHub\\CarBook\\CarBook\\Presentation\\CarBook.WepApi\\CarBook.WepApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sedat\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\sedat\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
